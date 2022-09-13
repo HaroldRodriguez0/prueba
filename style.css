@@ -1,6 +1,5 @@
 body{
     text-align: center;
-    color: rgb(255, 176, 73);
 }
 
 h1{
@@ -9,4 +8,10 @@ h1{
 
 h2{
     background-color: blueviolet;
+}
+
+.x{
+    font-size: x-large;
+    background-color: aqua;
+    color: burlywood;
 }
